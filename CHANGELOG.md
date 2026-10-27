@@ -1,5 +1,11 @@
 # StatusBoost release notes
 
+## 2.0.1 release candidate 2 (2026-10-27, not signed)
+
+- **Checksum file:** `SHA256SUMS.txt` now works with `sha256sum -c` and `shasum -c`. In release candidate 1, its Windows line endings made those tools report the installer as missing.
+- **Installing it replaces release candidate 1.** Your settings are kept.
+- StatusBoost itself is unchanged, apart from its version number, 2.0.1.
+
 ## 2.0.0 release candidate 1 (2026-10-27, not signed)
 
 A test release for trusted testers. The signed release follows with a higher version number.

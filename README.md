@@ -4,7 +4,7 @@ StatusBoost monitors Exeltech KC power systems over your network: the battery, i
 
 StatusBoost is free to use, copy and distribute; see the [license](LICENSE.txt).
 
-> **Release candidate, not signed yet.** StatusBoost 2.0.0 is a test release for trusted testers. Its installer is not digitally signed yet, so Windows names the publisher as "Unknown publisher" instead of Exeltech:
+> **Release candidate, not signed yet.** StatusBoost 2.0 is in testing with trusted testers. Its installer is not digitally signed yet, so Windows names the publisher as "Unknown publisher" instead of Exeltech:
 >
 > - **When you open the downloaded `.msi`,** Windows may show "Windows protected your PC". Click **More info**, then **Run anyway**.
 > - **Windows' administrator prompt** shows "Publisher: Unknown". Click **Yes**.
