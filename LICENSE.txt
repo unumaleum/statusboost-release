@@ -1,0 +1,100 @@
+STATUSBOOST LICENSE AGREEMENT
+
+Copyright (c) 2026 Exeltech. All rights reserved.
+
+Read this agreement before installing StatusBoost. By installing or
+using StatusBoost you accept it. If you do not accept it, do not
+install or use StatusBoost.
+
+1. Free of charge
+
+StatusBoost is free. Exeltech grants you a non-exclusive license, at
+no cost, to install and use StatusBoost on any number of computers to
+monitor and configure Exeltech power systems.
+
+2. Copying and distribution
+
+You may copy StatusBoost and give copies of its unmodified installer
+to others, free of charge. You may not sell, rent or lease
+StatusBoost, or charge for distributing it. Anyone who receives a copy
+receives it under this agreement.
+
+3. Restrictions
+
+You may not modify, reverse engineer, decompile or disassemble
+StatusBoost, except where applicable law expressly allows it despite
+this restriction. You may not remove or change its copyright notices
+or this agreement.
+
+4. Ownership
+
+StatusBoost is licensed, not sold. Exeltech keeps all rights in
+StatusBoost that this agreement does not expressly grant you.
+
+5. Privacy
+
+Exeltech does not collect any information through StatusBoost.
+StatusBoost sends nothing about you, your computer, your systems or
+how you use it to Exeltech or anyone else. It has no analytics, no
+telemetry, no update checks and no user accounts.
+
+StatusBoost communicates only with the Exeltech systems on your
+network. It searches the local network for them (UDP port 6006), reads
+and configures them (Modbus TCP port 502), and changes their network
+settings in Network Feature Setup (SNMP, UDP port 161). What it reads
+stays on your computer, and it stores its settings only on your
+computer, in "%APPDATA%\StatusBoost". The links in its Help menu and
+About box open Exeltech's website in your browser, and only when you
+click them.
+
+6. Changes to your systems
+
+StatusBoost can change the configuration and network settings of the
+Exeltech systems it connects to. You are responsible for the changes
+you make with it, and for checking afterwards that each system works
+as intended.
+
+7. No warranty
+
+StatusBoost is provided "as is", without warranty of any kind, express
+or implied, including the implied warranties of merchantability,
+fitness for a particular purpose and non-infringement. Exeltech does
+not warrant that StatusBoost is free of errors or that it will run
+without interruption.
+
+8. Limitation of liability
+
+To the extent permitted by law, Exeltech is not liable for any
+indirect, incidental, special or consequential damages, or for any
+loss of data, revenue or profit, arising from the use of StatusBoost
+or the inability to use it, even if Exeltech was told such damages
+were possible.
+
+9. Termination
+
+This license ends automatically if you do not comply with it. When it
+ends, you must stop using StatusBoost and uninstall it.
+
+10. Third-party software
+
+StatusBoost includes the following software from others. Each part is
+licensed to you under its own license, not under this agreement, and
+nothing in this agreement limits your rights under those licenses.
+
+- Java runtime: Eclipse Temurin 21 (OpenJDK), under the GNU General
+  Public License version 2 with the Classpath Exception. Its notices
+  are in the "runtime\legal" folder of the installation.
+  https://adoptium.net
+- SNMP4J 2.8.18, under the Apache License 2.0.
+  https://www.snmp4j.org
+- JCalendar 1.4 by Kai Toedter, under the GNU Lesser General Public
+  License. https://toedter.com/jcalendar/
+- Swing Layout Extensions 1.0.4, under the GNU Lesser General Public
+  License version 2.1.
+
+The license texts are at https://www.apache.org/licenses/LICENSE-2.0
+and https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html.
+
+11. Contact
+
+Exeltech, https://www.exeltech.com
