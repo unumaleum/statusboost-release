@@ -1,6 +1,8 @@
 # StatusBoost release notes
 
-## 2.0.0 (not released yet)
+## 2.0.0 release candidate 1 (2026-10-27, not signed)
+
+A test release for trusted testers. The signed release follows with a higher version number.
 
 - **Installer:** StatusBoost now comes as a Windows installer that includes its own Java. You no longer need to install Java.
 - **Stacked systems:** combine several cages into one system in Find Device. Each further cage is shown with its own power modules and alarms.

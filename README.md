@@ -4,6 +4,13 @@ StatusBoost monitors Exeltech KC power systems over your network: the battery, i
 
 StatusBoost is free to use, copy and distribute; see the [license](LICENSE.txt).
 
+> **Release candidate, not signed yet.** StatusBoost 2.0.0 is a test release for trusted testers. Its installer is not digitally signed yet, so Windows names the publisher as "Unknown publisher" instead of Exeltech:
+>
+> - **When you open the downloaded `.msi`,** Windows may show "Windows protected your PC". Click **More info**, then **Run anyway**.
+> - **Windows' administrator prompt** shows "Publisher: Unknown". Click **Yes**.
+>
+> Check the download's SHA256 hash first, as described below. The user guide describes the signed installer, which shows Exeltech as the publisher. The signed release will have a higher version number, and installing it replaces this one.
+
 ## Requirements
 
 - Windows 10 or 11, 64-bit.
@@ -12,7 +19,7 @@ StatusBoost is free to use, copy and distribute; see the [license](LICENSE.txt).
 
 ## Install
 
-1. Open **[Releases](../../releases/latest)** and download `StatusBoost-<version>.msi`.
+1. Open **[Releases](../../releases)** and download `StatusBoost-<version>.msi` from the newest release.
 2. Check the download, as described below.
 3. Run the `.msi`, accept the license and choose the folder. Windows asks for administrator rights; click **Yes**.
 4. Start StatusBoost from the Start menu (folder "Exeltech") or the desktop shortcut.
