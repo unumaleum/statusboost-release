@@ -24,6 +24,8 @@ StatusBoost is free to use, copy and distribute; see the [license](LICENSE.txt).
 3. Run the `.msi`, accept the license and choose the folder. Windows asks for administrator rights; click **Yes**.
 4. Start StatusBoost from the Start menu (folder "Exeltech") or the desktop shortcut.
 
+**The firewall rule:** the installer also adds a Windows Firewall rule that lets StatusBoost receive the systems' answers from your local network only, so Windows doesn't ask about the firewall the first time StatusBoost searches for systems.
+
 ## Check the download
 
 Each release lists the SHA256 hash of its installer, in `SHA256SUMS.txt` and in the release notes. A matching hash shows the file is complete and unchanged.
@@ -52,7 +54,10 @@ Run the newer `.msi`. It replaces the installed version, and your settings are k
 
 ## Uninstall
 
-Windows **Settings → Apps → StatusBoost → Uninstall**, and click **Yes** when Windows asks for administrator rights. Your settings stay in `%APPDATA%\StatusBoost`; delete that folder to remove them too.
+Windows **Settings → Apps → StatusBoost → Uninstall**, and click **Yes** when Windows asks for administrator rights.
+
+- **Removed with it:** its firewall rule.
+- **Kept:** your settings, in `%APPDATA%\StatusBoost`. Delete that folder to remove them too.
 
 ## User guide
 
