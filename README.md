@@ -4,6 +4,8 @@ StatusBoost monitors Exeltech KC power systems over your network: the battery, i
 
 StatusBoost is free to use, copy and distribute; see the [license](LICENSE.txt).
 
+**[Download StatusBoost](https://unumaleum.github.io/statusboost-release/)**: the download page has the newest installer and how to install it.
+
 > **Release candidate, not signed yet.** StatusBoost 2.0 is in testing with trusted testers. Its installer is not digitally signed yet, so Windows names the publisher as "Unknown publisher" instead of Exeltech:
 >
 > - **When you open the downloaded `.msi`,** Windows may show "Windows protected your PC". Click **More info**, then **Run anyway**.
@@ -19,7 +21,7 @@ StatusBoost is free to use, copy and distribute; see the [license](LICENSE.txt).
 
 ## Install
 
-1. Open **[Releases](../../releases)** and download `StatusBoost-<version>.msi` from the newest release.
+1. Open the **[download page](https://unumaleum.github.io/statusboost-release/)** and click **Download StatusBoost**. The installer, `StatusBoost-<version>.msi`, is also attached to the newest of the **[Releases](../../releases)**.
 2. Check the download, as described below.
 3. Run the `.msi`, accept the license and choose the folder. Windows asks for administrator rights; click **Yes**.
 4. Start StatusBoost from the Start menu (folder "Exeltech") or the desktop shortcut.
@@ -28,7 +30,7 @@ StatusBoost is free to use, copy and distribute; see the [license](LICENSE.txt).
 
 ## Check the download
 
-Each release lists the SHA256 hash of its installer, in `SHA256SUMS.txt` and in the release notes. A matching hash shows the file is complete and unchanged.
+Each release lists the SHA256 hash of its installer, in `SHA256SUMS.txt` and in the release notes, and the download page shows it too. A matching hash shows the file is complete and unchanged.
 
 In PowerShell, in the folder you downloaded to:
 
