@@ -4,7 +4,7 @@ StatusBoost monitors Exeltech KC power systems over your network: the battery, i
 
 StatusBoost is free to use, copy and distribute; see the [license](LICENSE.txt).
 
-**[Download StatusBoost](https://unumaleum.github.io/statusboost-release/)**: the download page has the newest installer and how to install it.
+**[Download StatusBoost](https://unumaleum.github.io/downloads/#statusboost)**: Exeltech's downloads have moved to one page, <https://unumaleum.github.io/downloads/>, with the newest StatusBoost (StatusBoost .NET), the user guide and Exeltech's other programs and files. The release candidates below stay in this repository's Releases.
 
 > **Release candidate, not signed yet.** StatusBoost 2.0 is in testing with trusted testers. Its installer is not digitally signed yet, so Windows names the publisher as "Unknown publisher" instead of Exeltech:
 >
@@ -21,7 +21,7 @@ StatusBoost is free to use, copy and distribute; see the [license](LICENSE.txt).
 
 ## Install
 
-1. Open the **[download page](https://unumaleum.github.io/statusboost-release/)** and click **Download StatusBoost**. The installer, `StatusBoost-<version>.msi`, is also attached to the newest of the **[Releases](../../releases)**.
+1. Open Exeltech's **[download page](https://unumaleum.github.io/downloads/#statusboost)** and click **Download StatusBoost .NET**. This repository's release candidates, `StatusBoost-<version>.msi`, are attached to its **[Releases](../../releases)**.
 2. Check the download, as described below.
 3. Run the `.msi`, accept the license and choose the folder. Windows asks for administrator rights; click **Yes**.
 4. Start StatusBoost from the Start menu (folder "Exeltech") or the desktop shortcut.
@@ -48,7 +48,7 @@ Compare the result with the release's hash; upper or lower case doesn't matter. 
 
 ## First connection
 
-Choose **Tools → Device Connection → Find...**, select your system and click **OK**. The user guide (Section 5.2) explains the steps, including stacked systems.
+Choose **Tools → Device Connection → Find...** and click **Refresh**, then select your system and click **OK**. For a system with an STS controller, check **Include legacy devices** before clicking **Refresh**. The user guide (Section 5.2) explains the steps, including stacked systems.
 
 ## Upgrade
 
