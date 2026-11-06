@@ -65,7 +65,7 @@ StatusBoost is provided "as is", without warranty of any kind, express
 or implied, including the implied warranties of merchantability,
 fitness for a particular purpose and non-infringement. Exeltech does
 not warrant that StatusBoost is free of errors or that it will run
-without interruption. You use StatusBoost at your own risk.
+without interruption.
 
 8. Limitation of liability
 
@@ -73,8 +73,8 @@ To the extent permitted by law, Exeltech is not liable for any
 indirect, incidental, special or consequential damages, or for any
 loss of data, revenue or profit, arising from the use of StatusBoost
 or the inability to use it, even if Exeltech was told such damages
-were possible. In any case, Exeltech's total liability arising from
-StatusBoost is limited to the amount you paid for it.
+were possible. In no event is Exeltech liable for any claim, damages
+or other liability arising from the use of StatusBoost.
 
 9. Termination
 
