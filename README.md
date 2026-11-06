@@ -2,7 +2,7 @@
 
 StatusBoost monitors Exeltech KC power systems over your network: the battery, inverter, utility and output values, alarms, power modules and transfer switches, for one system or several stacked cages.
 
-StatusBoost is free to use, copy and distribute; see the [license](LICENSE.txt).
+StatusBoost is free for Exeltech customers; see the [license](LICENSE.txt).
 
 **[Download StatusBoost](https://unumaleum.github.io/downloads/#statusboost)**: Exeltech's downloads have moved to one page, <https://unumaleum.github.io/downloads/>, with the newest StatusBoost (StatusBoost .NET), the user guide and Exeltech's other programs and files. The release candidates below stay in this repository's Releases.
 
@@ -63,7 +63,7 @@ Windows **Settings → Apps → StatusBoost → Uninstall**, and click **Yes** w
 
 ## User guide
 
-`sbguide.pdf` is attached to each release, and StatusBoost opens it from **Help → User Guide**.
+The user guide is built into StatusBoost since 2.0.9: **Help → User Guide** opens it. It is also on Exeltech's download page, <https://unumaleum.github.io/downloads/#user-guide>, and `sbguide.pdf` is attached to the older releases.
 
 ## Privacy
 
@@ -85,4 +85,4 @@ Contact Exeltech technical support: <https://www.exeltech.com>.
 
 ## License
 
-StatusBoost is free, under the [StatusBoost License Agreement](LICENSE.txt), which the installer also shows. It includes third-party software under its own licenses, listed in section 10 of the agreement.
+StatusBoost is free for Exeltech customers, under the [StatusBoost License Agreement](LICENSE.txt), which the installer also shows: the owners and operators of Exeltech power systems, and those who install or service them. Copies are for use by you and your organization. It includes third-party software under its own licenses, listed in section 10 of the agreement.

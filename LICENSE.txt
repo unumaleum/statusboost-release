@@ -6,18 +6,21 @@ Read this agreement before installing StatusBoost. By installing or
 using StatusBoost you accept it. If you do not accept it, do not
 install or use StatusBoost.
 
-1. Free of charge
+1. Exeltech customers only, free of charge
 
-StatusBoost is free. Exeltech grants you a non-exclusive license, at
-no cost, to install and use StatusBoost on any number of computers to
-monitor and configure Exeltech power systems.
+StatusBoost is for Exeltech's customers: the owners and operators of
+Exeltech power systems, and those who install or service those
+systems for them. If you are one of them, Exeltech grants you a
+non-exclusive license, at no cost, to install and use StatusBoost on
+any number of your computers to monitor and configure those Exeltech
+power systems. If you are not an Exeltech customer, this agreement
+grants you no right to use StatusBoost.
 
 2. Copying and distribution
 
-You may copy StatusBoost and give copies of its unmodified installer
-to others, free of charge. You may not sell, rent or lease
-StatusBoost, or charge for distributing it. Anyone who receives a copy
-receives it under this agreement.
+You may copy StatusBoost and its installer for use by you and your
+organization. You may not sell, rent, lease or distribute it to
+anyone else, or charge for it. Others can download it from Exeltech.
 
 3. Restrictions
 
@@ -43,9 +46,11 @@ network. It searches the local network for them (UDP port 6006), reads
 and configures them (Modbus TCP port 502), and changes their network
 settings in Network Feature Setup (SNMP, UDP port 161). What it reads
 stays on your computer, and it stores its settings only on your
-computer, in "%APPDATA%\StatusBoost". The links in its Help menu and
-About box open Exeltech's website in your browser, and only when you
-click them.
+computer, in "%APPDATA%\StatusBoost". Help > User Guide copies the
+user guide, which is built into StatusBoost, to a temporary file and
+opens it in your PDF viewer. The links in its Help menu and About box
+open Exeltech's website in your browser, and only when you click
+them.
 
 6. Changes to your systems
 
@@ -60,7 +65,7 @@ StatusBoost is provided "as is", without warranty of any kind, express
 or implied, including the implied warranties of merchantability,
 fitness for a particular purpose and non-infringement. Exeltech does
 not warrant that StatusBoost is free of errors or that it will run
-without interruption.
+without interruption. You use StatusBoost at your own risk.
 
 8. Limitation of liability
 
@@ -68,7 +73,8 @@ To the extent permitted by law, Exeltech is not liable for any
 indirect, incidental, special or consequential damages, or for any
 loss of data, revenue or profit, arising from the use of StatusBoost
 or the inability to use it, even if Exeltech was told such damages
-were possible.
+were possible. In any case, Exeltech's total liability arising from
+StatusBoost is limited to the amount you paid for it.
 
 9. Termination
 
