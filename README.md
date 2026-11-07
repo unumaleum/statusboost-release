@@ -4,7 +4,7 @@ StatusBoost monitors Exeltech KC power systems over your network: the battery, i
 
 StatusBoost is free for Exeltech customers; see the [license](LICENSE.txt).
 
-**[Download StatusBoost](https://unumaleum.github.io/downloads/#statusboost)**: Exeltech's downloads have moved to one page, <https://unumaleum.github.io/downloads/>, with the newest StatusBoost (StatusBoost .NET), the user guide and Exeltech's other programs and files. The release candidates below stay in this repository's Releases.
+**[Download StatusBoost](https://downloads.exeltech.com/#statusboost)**: Exeltech's downloads have moved to one page, <https://downloads.exeltech.com/>, with the newest StatusBoost (StatusBoost .NET), the user guide and Exeltech's other programs and files. The release candidates below stay in this repository's Releases.
 
 > **Release candidate, not signed yet.** StatusBoost 2.0 is in testing with trusted testers. Its installer is not digitally signed yet, so Windows names the publisher as "Unknown publisher" instead of Exeltech:
 >
@@ -21,7 +21,7 @@ StatusBoost is free for Exeltech customers; see the [license](LICENSE.txt).
 
 ## Install
 
-1. Open Exeltech's **[download page](https://unumaleum.github.io/downloads/#statusboost)** and click **Download StatusBoost .NET**. This repository's release candidates, `StatusBoost-<version>.msi`, are attached to its **[Releases](../../releases)**.
+1. Open Exeltech's **[download page](https://downloads.exeltech.com/#statusboost)** and click **Download StatusBoost .NET**. This repository's release candidates, `StatusBoost-<version>.msi`, are attached to its **[Releases](../../releases)**.
 2. Check the download, as described below.
 3. Run the `.msi`, accept the license and choose the folder. Windows asks for administrator rights; click **Yes**.
 4. Start StatusBoost from the Start menu (folder "Exeltech") or the desktop shortcut.
@@ -63,7 +63,7 @@ Windows **Settings → Apps → StatusBoost → Uninstall**, and click **Yes** w
 
 ## User guide
 
-The user guide is built into StatusBoost since 2.0.9: **Help → User Guide** opens it. It is also on Exeltech's download page, <https://unumaleum.github.io/downloads/#user-guide>, and `sbguide.pdf` is attached to the older releases.
+The user guide is built into StatusBoost since 2.0.9: **Help → User Guide** opens it. It is also on Exeltech's download page, <https://downloads.exeltech.com/#user-guide>, and `sbguide.pdf` is attached to the older releases.
 
 ## Privacy
 
